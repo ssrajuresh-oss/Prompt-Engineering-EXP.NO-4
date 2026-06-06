@@ -40,5 +40,8 @@ Everyday Functioning Prompts:
   “How is encryption used in daily life when sending WhatsApp messages?”
 
   OUTPUT:
+  https://github.com/ssrajuresh-oss/Prompt-Engineering-EXP.NO-4/blob/main/Smartphone_Comparative_Analysis_15_Pages.pdf
 
   RESULT:
+  Developed Comparative Analysis, Experiential Perspective, and Everyday Functioning prompts for smartphone evaluation and daily-use scenarios.
+Demonstrated how different prompting techniques support decision-making, user-centric analysis, and practical real-world applications.
